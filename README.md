@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sharath</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Django,React**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 Reach me at **sharathkrml@gmail.com**
 
