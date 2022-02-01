@@ -8,6 +8,14 @@
 
 - 📫 Reach me at **sharathkrml@gmail.com**
 
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=sharathkrml&show_icons=true&theme=tokyonight" 
+/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sharath-v-498835115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharath-v-498835115/" height="30" width="40" /></a>
