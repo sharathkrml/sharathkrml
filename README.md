@@ -13,6 +13,15 @@
    src="https://github-readme-stats.vercel.app/api?username=sharathkrml&show_icons=true&theme=tokyonight" 
 />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathkrml&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathkrml&theme=dark&hide_border=true"/>
+
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=sharathkrml&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/sharathkrml)
+<br>
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com/LearnWeb3DAO/TokenTutorial/pull/2) in [LearnWeb3DAO/TokenTutorial](https://github.com/LearnWeb3DAO/TokenTutorial)
 2. 💪 Opened PR [#1](https://github.com/BlockDevsUnited/TokenTutorial/pull/1) in [BlockDevsUnited/TokenTutorial](https://github.com/BlockDevsUnited/TokenTutorial)
