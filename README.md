@@ -14,6 +14,10 @@
 />
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/LearnWeb3DAO/TokenTutorial/pull/2) in [LearnWeb3DAO/TokenTutorial](https://github.com/LearnWeb3DAO/TokenTutorial)
+2. 💪 Opened PR [#1](https://github.com/BlockDevsUnited/TokenTutorial/pull/1) in [BlockDevsUnited/TokenTutorial](https://github.com/BlockDevsUnited/TokenTutorial)
+3. 🗣 Commented on [#3573](https://github.com/google/it-cert-automation-practice/issues/3573) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
+4. ❗️ Opened issue [#3032](https://github.com/EddieHubCommunity/support/issues/3032) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
