@@ -1,10 +1,9 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sharath</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
 - 🔭 I’m currently working on **React,Solidity**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **WEB3 DEVELOPMENT**
 
 - 📫 Reach me at **sharathkrml@gmail.com**
 
