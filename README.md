@@ -33,6 +33,8 @@ src="https://img.shields.io/github/followers/sharathkrml?logo=github&style=for-t
    src="https://github-readme-stats.vercel.app/api?username=sharathkrml&show_icons=true&theme=tokyonight" 
 />
 
+
+<a href="http://www.github.com/sharathkrml"><img src="https://activity-graph.herokuapp.com/graph?username=sharathkrml&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com/LearnWeb3DAO/TokenTutorial/pull/2) in [LearnWeb3DAO/TokenTutorial](https://github.com/LearnWeb3DAO/TokenTutorial)
 2. 💪 Opened PR [#1](https://github.com/BlockDevsUnited/TokenTutorial/pull/1) in [BlockDevsUnited/TokenTutorial](https://github.com/BlockDevsUnited/TokenTutorial)
@@ -40,22 +42,5 @@ src="https://img.shields.io/github/followers/sharathkrml?logo=github&style=for-t
 4. ❗️ Opened issue [#3032](https://github.com/EddieHubCommunity/support/issues/3032) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
-<a href="https://github.com/sharathkrml" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathkrml&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=sharathkrml&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/sharathkrml)
-<br>
-
-
-
-
-
-
-
-
-<a href="http://www.github.com/sharathkrml"><img src="https://activity-graph.herokuapp.com/graph?username=sharathkrml&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
-
-   
+<a href="https://github.com/sharathkrml" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathkrml&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
    
