@@ -1,25 +1,37 @@
-<h1 align="center">Hi 👋, I'm Sharath</h1>
-<h3 align="center">A Passionate Developer from India</h3>
+Hi 👋 My name is Sharath
+========================
 
-- 🔭 I’m currently working on **React,Solidity**
+Web3 developer
+--------------
 
-- 🌱 I’m currently learning **WEB3 DEVELOPMENT**
+I've been doing fullstack development and app development for around 2 years,but found my passion in web3 development
 
-- 📫 Reach me at **sharathkrml@gmail.com**
+* 🌍  I'm based in India
+* ✉️  You can contact me at [sharathkrml@gmail.com](mailto:sharathkrml@gmail.com)
+* 🤝  I'm open to collaborating on Ethereum blockchain related projects
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+<a href="https://discord.com/users/sharathkrml#9335" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/sharathkrml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://sharathkrml.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/sharath-v-498835115" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.medium.com/@sharathkrml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/sharathkrml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+<a href="https://www.github.com/sharathkrml" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sharathkrml?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NextJs" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a><a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a><a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a></p>
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathkrml&theme=dark&hide_border=true"/>
 <img 
    src="https://github-readme-stats.vercel.app/api?username=sharathkrml&show_icons=true&theme=tokyonight" 
 />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharathkrml&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharathkrml&theme=dark&hide_border=true"/>
-
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=sharathkrml&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/sharathkrml)
-<br>
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2](https://github.com/LearnWeb3DAO/TokenTutorial/pull/2) in [LearnWeb3DAO/TokenTutorial](https://github.com/LearnWeb3DAO/TokenTutorial)
@@ -28,12 +40,22 @@
 4. ❗️ Opened issue [#3032](https://github.com/EddieHubCommunity/support/issues/3032) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sharath-v-498835115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharath-v-498835115/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sharathkrml/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharath.krml" height="30" width="40" /></a>
-<a href="https://medium.com/@sharathkrml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sharathkrml" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/sharathkrml" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathkrml&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=sharathkrml&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/sharathkrml)
+<br>
+
+
+
+
+
+
+
+
+<a href="http://www.github.com/sharathkrml"><img src="https://activity-graph.herokuapp.com/graph?username=sharathkrml&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+
+   
+   
