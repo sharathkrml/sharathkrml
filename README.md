@@ -37,13 +37,5 @@ src="https://img.shields.io/github/followers/sharathkrml?logo=github&style=for-t
 />
 
 
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/LearnWeb3DAO/TokenTutorial/pull/2) in [LearnWeb3DAO/TokenTutorial](https://github.com/LearnWeb3DAO/TokenTutorial)
-2. 💪 Opened PR [#1](https://github.com/BlockDevsUnited/TokenTutorial/pull/1) in [BlockDevsUnited/TokenTutorial](https://github.com/BlockDevsUnited/TokenTutorial)
-3. 🗣 Commented on [#3573](https://github.com/google/it-cert-automation-practice/issues/3573) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
-4. ❗️ Opened issue [#3032](https://github.com/EddieHubCommunity/support/issues/3032) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-<!--END_SECTION:activity-->
-
 <a href="https://github.com/sharathkrml" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathkrml&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
    
