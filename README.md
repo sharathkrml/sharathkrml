@@ -7,7 +7,7 @@ Web3 developer
 I've been doing fullstack development and app development for around 2 years,but found my passion in web3 development
 
 
-* 🚀  Full-stack developer [Airstack](https://www.airstack.xyz/)
+* 🚀  Full Stack Blockchain developer [Airstack](https://www.airstack.xyz/)
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sharathkrml@gmail.com](mailto:sharathkrml@gmail.com)
 * 🤝  I'm open to collaborating on Ethereum blockchain related projects
