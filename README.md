@@ -21,7 +21,7 @@ I've been doing fullstack development and app development for around 2 years,but
 <a href="https://www.linkedin.com/in/sharath-v-498835115" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="http://www.medium.com/@sharathkrml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/sharathkrml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+<a href="http://www.instagram.com/sharathkrml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 <a href="https://www.github.com/sharathkrml" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sharathkrml?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
