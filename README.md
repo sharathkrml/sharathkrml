@@ -4,7 +4,6 @@ Hi 👋 My name is Sharath
 Web3 developer
 --------------
 
-I've been doing fullstack development and app development for around 2 years,but found my passion in web3 development
 
 
 * 🚀  Full Stack Blockchain developer [Airstack](https://www.airstack.xyz/)
