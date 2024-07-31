@@ -35,5 +35,9 @@ src="https://img.shields.io/github/followers/sharathkrml?logo=github&style=for-t
 <img 
    src="https://github-readme-stats.vercel.app/api?username=sharathkrml&show_icons=true&theme=tokyonight" 
 />
-   
+
+
+[![sharathkrml's GitHub | Stats](https://stats.quira.sh/sharathkrml/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sharathkrml)
+
+
 [![sharathkrml's GitHub | Languages Over Time](https://stats.quira.sh/sharathkrml/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=sharathkrml)
