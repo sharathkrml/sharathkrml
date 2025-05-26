@@ -1,15 +1,8 @@
 Hi 👋 My name is Sharath
 ========================
 
-Web3 developer
---------------
 
 
-
-* 🚀  Full Stack Blockchain developer [Airstack](https://www.airstack.xyz/)
-* 🌍  I'm based in India
-* ✉️  You can contact me at [sharathkrml@gmail.com](mailto:sharathkrml@gmail.com)
-* 🤝  I'm open to collaborating on Ethereum blockchain related projects
 
 <h3 align="center">Connect with me:</h3>
 
